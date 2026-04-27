@@ -1,4 +1,4 @@
-## Hi there 👋
+![stats](https://github-readme-stats.vercel.app/api?username=Graf-Lev-V&show_icons=true&theme=radical&rank_icon=default)
 
 <!--
 **Graf-Lev-V/Graf-Lev-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
