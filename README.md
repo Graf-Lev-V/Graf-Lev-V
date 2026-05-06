@@ -22,7 +22,7 @@
 ###
 
 <p align="center">
-  <img src="https://stats.vercel.app/api?username=Graf-Lev-V">
+  ![stats](https://github-readme-stats.vercel.app/api?username=Graf-Lev-V&show_icons=true&theme=radical&rank_icon=default)
 </p>
 
 ###
