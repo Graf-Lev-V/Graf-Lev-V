@@ -22,7 +22,9 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=graf-lev-v&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=graf-lev-v&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=graf-lev-v&theme=tokyonight">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=graf-lev-v&layout=compact&theme=tokyonight">
 </p>
 
 ###
