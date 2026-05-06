@@ -21,9 +21,7 @@
 
 ###
 
-<p align="center">
-  ![stats](https://github-readme-stats.vercel.app/api?username=Graf-Lev-V&show_icons=true&theme=radical&rank_icon=default)
-</p>
+![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Graf-Lev-V&show_icons=true&theme=radical)
 
 ###
 
