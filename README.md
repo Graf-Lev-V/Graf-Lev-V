@@ -22,9 +22,7 @@
 ###
 
 <p align="center">
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=graf-lev-v&show_icons=true&theme=dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=graf-lev-v&theme=dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=graf-lev-v&layout=compact&theme=dark)
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=graf-lev-v&show_icons=true&theme=dark">
 </p>
 
 ###
