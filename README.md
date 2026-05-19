@@ -17,6 +17,22 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="py logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="sklearn logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
