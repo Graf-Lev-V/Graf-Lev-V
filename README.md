@@ -26,6 +26,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="sklearn logo"  />
   <img width="12" />
 </div>
