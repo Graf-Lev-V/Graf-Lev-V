@@ -62,7 +62,23 @@
 ## 📌 Projects
 
 <p align="center">
-  🚧 Coming soon...
+
+### 🤖 AI Chat App
+AI-powered real-time chat application with streaming responses and modern UI.
+
+**Stack:** Next.js • React • TypeScript • AI API integration • Streaming responses
+
+🔗 https://github.com/Graf-Lev-V/ai-chat
+
+---
+
+### 🔎 Dev Finder
+GitHub user search application with clean UI and API-based profile fetching.
+
+**Stack:** React • TypeScript • GitHub API • REST integration • UI state handling
+
+🔗 https://github.com/Graf-Lev-V/dev-finder
+
 </p>
 
 ---
