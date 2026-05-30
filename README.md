@@ -51,9 +51,8 @@
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Auth0-000000?style=for-the-badge&logo=auth0&logoColor=white" />
-</div>
+![Auth0 Badge](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=fff&style=for-the-badge)
+![Render Badge](https://img.shields.io/badge/Render-000?logo=render&logoColor=fff&style=for-the-badge)
 
 ---
 
