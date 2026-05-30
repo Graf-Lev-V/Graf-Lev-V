@@ -1,6 +1,10 @@
 <h1 align="center">🦁 Graf-Lev-V / Frontend Developer</h1>
 
 <p align="center">
+  Building AI & SaaS-style web apps 🚀
+</p>
+
+<p align="center">
   Frontend • React • Next.js • TypeScript • Backend basics
 </p>
 
@@ -10,9 +14,9 @@
 
 <p align="center">
   Frontend developer focused on building modern web applications using React, Next.js and TypeScript.
-
+  <br><br>
   Currently building AI-powered and SaaS-style projects to improve my full-stack skills.
-
+  <br><br>
   Interested in product development, clean UI and scalable web apps.
 </p>
 
@@ -67,18 +71,18 @@
 <p align="center">
 
 ### 🤖 AI Chat App
-AI-powered real-time chat application with streaming responses and modern UI.
+AI-powered chat application with real-time streaming responses and modern UI.
 
-**Stack:** Next.js • React • TypeScript • AI API integration • Streaming responses
+**Stack:** Next.js • React • TypeScript • AI integration
 
 🔗 https://github.com/Graf-Lev-V/ai-chat
 
 ---
 
 ### 🔎 Dev Finder
-GitHub user search application with clean UI and API-based profile fetching.
+GitHub profile search app with API integration and clean UI state handling.
 
-**Stack:** React • TypeScript • GitHub API • REST integration • UI state handling
+**Stack:** React • TypeScript • GitHub API
 
 🔗 https://github.com/Graf-Lev-V/dev-finder
 
