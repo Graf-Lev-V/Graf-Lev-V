@@ -30,6 +30,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="sklearn logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="12" />
 </div>
 
 ###
