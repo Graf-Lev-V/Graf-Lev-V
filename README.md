@@ -9,8 +9,11 @@
 ## ⚡ About Me
 
 <p align="center">
-  I’m a frontend developer focused on building modern web apps with React ecosystem.  
-  Currently improving full-stack skills and building portfolio projects.
+  Frontend developer focused on building modern web applications using React, Next.js and TypeScript.
+
+  Currently building AI-powered and SaaS-style projects to improve my full-stack skills.
+
+  Interested in product development, clean UI and scalable web apps.
 </p>
 
 ---
