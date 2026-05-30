@@ -15,7 +15,7 @@
 <p align="center">
   Frontend developer focused on building modern web applications using React, Next.js and TypeScript.
   <br><br>
-  Currently building AI-powered and SaaS-style projects to improve my full-stack skills.
+  Building ML-powered and API-driven applications with real backend integration.
   <br><br>
   Interested in product development, clean UI and scalable web apps.
 </p>
@@ -73,7 +73,7 @@
 ### 🤖 AI Chat App
 AI-powered chat application with real-time streaming responses and modern UI.
 
-**Stack:** Next.js • React • TypeScript • AI integration
+**Stack:** Next.js • TypeScript • FastAPI • scikit-learn ML pipeline (TF-IDF + MLPClassifier) • real-time intent classification
 
 🔗 https://github.com/Graf-Lev-V/ai-chat
 
@@ -82,7 +82,7 @@ AI-powered chat application with real-time streaming responses and modern UI.
 ### 🔎 Dev Finder
 GitHub profile search app with API integration and clean UI state handling.
 
-**Stack:** React • TypeScript • GitHub API
+**Stack:** Next.js • TypeScript • GitHub REST API • dynamic routing • external API data fetching
 
 🔗 https://github.com/Graf-Lev-V/dev-finder
 
