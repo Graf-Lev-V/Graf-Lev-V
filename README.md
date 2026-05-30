@@ -11,7 +11,7 @@
   ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
   ![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge)
 
-###
+---
 
   ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
   ![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)
@@ -21,7 +21,7 @@
   ![Auth0 Badge](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=fff&style=for-the-badge)
   ![Render Badge](https://img.shields.io/badge/Render-000?logo=render&logoColor=fff&style=for-the-badge)
 
-###
+---
 
   ![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=for-the-badge)
   ![Vite Badge](https://img.shields.io/badge/Vite-9135FF?logo=vite&logoColor=fff&style=for-the-badge)
