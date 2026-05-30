@@ -1,6 +1,6 @@
 <h1 align="center">🦁 Graf-Lev-V / Frontend developer </h1>
 
-###
+---
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
@@ -45,20 +45,26 @@
   <img width="12" />
 </div>
 
-###
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Auth0-000000?style=for-the-badge&logo=auth0&logoColor=white" />
+</div>
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=graf-lev-v&show_icons=true&theme=tokyonight">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=graf-lev-v&layout=compact&theme=tokyonight">
 </p>
 
-###
+---
 
 <p align="center">
   <img src="https://github-profile-trophy-tawny.vercel.app/?username=Graf-Lev-V&theme=radical&no-frame=true&no-bg=true&margin-w=4">
 </p>
 
-###
+---
 
 <p align="center">
   <picture>
