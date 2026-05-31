@@ -51,7 +51,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Render-000?logo=render&logoColor=fff&style=for-the-badge" />
 </p>
 
