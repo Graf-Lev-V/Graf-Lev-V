@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Frontend • React • Next.js • TypeScript • Building full-stack web apps
+  React • Next.js • TypeScript • Full-stack
 </p>
 
 ---
@@ -13,7 +13,7 @@
 ## ⚡ About Me
 
 <p align="center">
-  Frontend developer focused on building modern web applications with React, Next.js and TypeScript.
+  Frontend developer building modern full-stack web applications with React, Next.js and TypeScript.
   <br><br>
   Experienced with full-stack development using Auth.js, Supabase and FastAPI.
   <br><br>
@@ -41,7 +41,7 @@
 
 ---
 
-### Backend & ML
+### Backend
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge" />
@@ -68,33 +68,27 @@
 
 <p align="center">
 
-### 📅 Habit Tracker
+### 📅 [Habit Tracker](https://github.com/Graf-Lev-V/habit-tracker)
 
 Full-stack habit tracking application with GitHub OAuth, streak tracking and a GitHub-style yearly heatmap.
 
 **Stack:** Next.js • TypeScript • Auth.js • Supabase • PostgreSQL • Server Actions
 
-🔗 https://github.com/Graf-Lev-V/habit-tracker
-
 ---
 
-### 🤖 AI Chat App
+### 🤖 [AI Chat App](https://github.com/Graf-Lev-V/ai-chat)
 
-Machine learning powered chat application with FastAPI backend and real-time intent classification.
+AI-powered chat application with a FastAPI backend and real-time intent classification.
 
 **Stack:** Next.js • TypeScript • FastAPI • scikit-learn • ML pipeline
 
-🔗 https://github.com/Graf-Lev-V/ai-chat
-
 ---
 
-### 🔎 Dev Finder
+### 🔎 [Dev Finder](https://github.com/Graf-Lev-V/dev-finder)
 
 GitHub profile search application with dynamic routing and REST API integration.
 
 **Stack:** Next.js • TypeScript • GitHub REST API
-
-🔗 https://github.com/Graf-Lev-V/dev-finder
 
 </p>
 
