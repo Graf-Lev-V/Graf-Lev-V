@@ -45,21 +45,30 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Auth.js-000000?style=for-the-badge" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Render-000?logo=render&logoColor=fff&style=for-the-badge" />
 </p>
 
 ---
 
-### Tools
+### ML
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vite-9135FF?logo=vite&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge" />
+</p>
+
+---
+
+### UI & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge" />
 </p>
 
 ---
